@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/zengargoyle/VimPlugger.svg?branch=master)](https://travis-ci.org/zengargoyle/VimPlugger)
+
 NAME
 ====
 

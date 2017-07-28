@@ -4,7 +4,7 @@ use Prompt::Gruff::Export;
 use VimPlugger::check;
 #use VimPlugger::datas;
 
-use Git::Wrapper;
+#use Git::Wrapper;
 
 my @q = "select_groups" => "Repos of wich group do you want to select ?";
 
