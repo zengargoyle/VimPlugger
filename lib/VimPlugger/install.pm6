@@ -1,6 +1,6 @@
 #---install.pm---
 unit module VimPlugger::install;
-use Prompt::Gruff::Export;
+#use Prompt::Gruff::Export;
 use VimPlugger::check;
 #use VimPlugger::datas;
 

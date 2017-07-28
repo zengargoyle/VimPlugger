@@ -2,7 +2,7 @@
 unit module VimPlugger::add;
 use Term::Choose;
 use Prompt::Gruff::Export;
-use VimPlugger::check; 
+#use VimPlugger::check; 
 #use VimPlugger::datas;
 
 ########  PRIVATE FUNCTIONS  ##################################################################
