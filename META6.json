@@ -9,7 +9,11 @@
   "name" : "VimPlugger",
   "perl" : "6.c",
   "provides" : {
-    "VimPlugger" : "lib/VimPlugger.pm6"
+    "VimPlugger" : "lib/VimPlugger.pm6",
+    "VimPlugger::add" : "lib/VimPlugger/add.pm6",
+    "VimPlugger::check" : "lib/VimPlugger/check.pm6",
+    "VimPlugger::datas" : "lib/VimPlugger/datas.pm6",
+    "VimPlugger::install" : "lib/VimPlugger/install.pm6"
   },
   "resources" : [ ],
   "source-url" : "",
